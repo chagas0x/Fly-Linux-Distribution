@@ -27,7 +27,7 @@ Inspirada no conceito **KISS (Keep It Simple, Stupid)**, o Fly oferece uma exper
 1. Baixe a ISO [aqui](https://github.com/chagas0x_/fly/releases).  
 2. Grave em um pendrive com dd.  
 3. Reinicie seu PC e escolha o pendrive como dispositivo de boot.  
-4. Particione disco, execute o setup.sh 
+4. Particione disco, edite e execute o setup.sh 
 
 ## Contribuindo
 
