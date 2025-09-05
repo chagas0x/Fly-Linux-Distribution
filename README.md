@@ -1,7 +1,7 @@
 # Fly Linux Distribution (Arch Based)
 
 O **Fly Linux** é uma distribuição **Unix-Like** criada com foco em **agilidade**, **segurança** e **simplicidade**.  
-Inspirada no conceito **KISS (Keep It Simple, Stupid)**, o FlyX oferece uma experiência moderna, rápida e sempre atualizada.
+Inspirada no conceito **KISS (Keep It Simple, Stupid)**, o Fly oferece uma experiência moderna, rápida e sempre atualizada.
 
 ## Agilidade
 
@@ -24,7 +24,7 @@ Inspirada no conceito **KISS (Keep It Simple, Stupid)**, o FlyX oferece uma expe
 
 ## Instalação
 
-1. Baixe a ISO [aqui](https://github.com/usuario/flyx/releases).  
+1. Baixe a ISO [aqui](https://github.com/chagas0x_/fly/releases).  
 2. Grave em um pendrive com dd.  
 3. Reinicie seu PC e escolha o pendrive como dispositivo de boot.  
 4. Particione disco, execute o setup.sh 
